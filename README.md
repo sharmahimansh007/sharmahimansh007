@@ -36,7 +36,8 @@ interpersonal skills</p>
 
 <h2 align="center"> 📄 Know about my experiences</h2>
 
-Click here for my [Resume](https://drive.google.com/file/d/1ivHfhozr2LEZ7oiKgK1G8BlvvLKcqd48/view?usp=sharing)
+   **Click here for my** [Resume](https://drive.google.com/file/d/1ivHfhozr2LEZ7oiKgK1G8BlvvLKcqd48/view?usp=sharing) </br> </br>
+  **Click here for my** [Portfolio](https://sharmahimansh.netlify.app/)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
