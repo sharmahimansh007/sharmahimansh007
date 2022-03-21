@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
-<p align="center">Full Stack Web Developer with a specialization in MERN
-Stack. Hands-on experience in application development. Skilled
-in building web applications using HTML, CSS JavaScript, React, Node.js, Express.js & Mongodb.
-Experience in ES6. Able to quickly learn and master
-new technologies. High-energy, confident professional with
-passion for technology. Flexible and capable of balancing
-multiple projects at the same time. Good in managing time
-and organizing tasks. Successful working in both team and
-self-directed environments with good communication and
-interpersonal skills</p>
+<p align="center">
+I'm a passionate and an enthusiastic Web Developer with skilled
+in building web applications using HTML, CSS JavaScript, React, Node.js, Express.js & Mongodb. Capable of applying programming skills to build exciting and creative projects. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.</p>
 <div align="center">
 <!--    <img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 /> -->
    <br><br>
