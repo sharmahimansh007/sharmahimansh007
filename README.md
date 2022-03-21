@@ -9,7 +9,7 @@ multiple projects at the same time. Good in managing time
 and organizing tasks. Successful working in both team and
 self-directed environments with good communication and
 interpersonal skills</p>
-<div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 />
+<!-- <div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 /> -->
    <br><br>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sharmahimansh007&theme=dracula&hide_border=true)
@@ -31,7 +31,7 @@ interpersonal skills</p>
 
 <h2 align="center"> 📫 How to reach me </h2>
  <p align="center">
-    <a target="_blank" href="mailto:sharmahimansh276@gmail.com"><img src="https://img.shields.io/badge/sikarwar.divyansh.13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:sharmahimansh276@gmail.com"><img src="https://img.shields.io/badge/sharmahimansh276@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
 <h2 align="center"> 📄 Know about my experiences</h2>
