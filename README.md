@@ -9,7 +9,8 @@ multiple projects at the same time. Good in managing time
 and organizing tasks. Successful working in both team and
 self-directed environments with good communication and
 interpersonal skills</p>
-<!-- <div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 /> -->
+<div align="center">
+<!--    <img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 /> -->
    <br><br>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sharmahimansh007&theme=dracula&hide_border=true)
