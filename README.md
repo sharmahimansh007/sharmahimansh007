@@ -4,6 +4,7 @@ I'm a passionate and an enthusiastic Web Developer with skilled
 in building web applications using HTML, CSS JavaScript, React, Node.js, Express.js & Mongodb. Capable of applying programming skills to build exciting and creative projects. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.</p>
 <div align="center">
 <!--    <img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 /> -->
+   <h2> Click here for my Portfolio </h2> <h2>https://sharmahimansh.netlify.app/</h2>
    <br><br>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sharmahimansh007&theme=dracula&hide_border=true)
@@ -31,7 +32,7 @@ in building web applications using HTML, CSS JavaScript, React, Node.js, Express
 <h2 align="center"> 📄 Know about my experiences</h2>
 
    **Click here for my** [Resume](https://drive.google.com/file/d/1ivHfhozr2LEZ7oiKgK1G8BlvvLKcqd48/view?usp=sharing) </br> </br>
-  **Click here for my** [Portfolio](https://sharmahimansh.netlify.app/)
+  
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
