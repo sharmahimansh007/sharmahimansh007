@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋</br>  I'm Himanshu Sharma</h1>
 <p align="center">
-A Full-Stack Web Developer with a specialization in MERN stack. I got Hands-on building web applications using HTML, CSS JavaScript, React, Node.js, Express.js & Mongodb. Capable of applying programming skills to build exciting and creative projects. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.</p>
+A Front-End Web Developer. I got Hands-on building web applications using HTML, CSS JavaScript, React. Capable of applying programming skills to build exciting and creative projects. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.</p>
 <div align="center">
 <!--    <img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 /> -->
    <h2> ⬇️ Click below link for my Portfolio ⬇️ </h2> <h2>https://himanshushan.netlify.app/</h2>
