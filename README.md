@@ -30,7 +30,7 @@ A Front-End Web Developer. I got Hands-on building web applications using HTML, 
 
 <h2 align="center"> 📄 Know about my experiences</h2>
 
-   **Click here for my** [Resume](https://drive.google.com/file/d/1ivHfhozr2LEZ7oiKgK1G8BlvvLKcqd48/view?usp=sharing) 
+   **Click here for my** [Resume](https://drive.google.com/drive/folders/1cmm9v1DG89tRGzTFdS0yclrVDUQa9SMv?usp=sharing) 
   
   
 
